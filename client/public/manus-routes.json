@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"首頁"},{"path":"/products/:id","title":"商品內容"},{"path":"/cart","title":"購物車"},{"path":"/checkout","title":"結帳"},{"path":"/orders/:orderNo","title":"訂單完成"},{"path":"/account","title":"會員中心"},{"path":"/policy","title":"購物須知與法規"}]}
